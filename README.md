@@ -2,7 +2,9 @@
 
 Zero-friction helpers to visualize **StatsBomb Open Data** — without manual data engineering.
 
-> Not affiliated with StatsBomb. Please respect the StatsBomb Open Data license and terms.
+> ⚠️ Not affiliated with StatsBomb. Please respect the [StatsBomb Open Data license](https://github.com/statsbomb/open-data/blob/master/LICENSE.txt).
+
+[![PyPI version](https://badge.fury.io/py/footsbviz.svg)](https://pypi.org/project/footsbviz/)
 
 ## Install
 
