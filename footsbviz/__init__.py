@@ -22,5 +22,5 @@ __all__ = [
     "create_xg_race_chart",
 ]
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
