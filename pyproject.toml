@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "footsbviz"
-version = "0.3.0"
+version = "0.2.0"
 description = "Zero-friction visuals for StatsBomb open data (no data engineering)."
 readme = "README.md"
 requires-python = ">=3.9"
